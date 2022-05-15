@@ -22,15 +22,15 @@ Info on the HAT and the assemply check out this link: https://uk.pi-supply.com/p
 there are many ways to go from here, but this is what i did.
 
 Insstall RaspberryPi Os Buster w/gui
->choose language, login,..
->set up ssh, i2c, spi, vnc, remote GPIO ..
->install Mu or/and thorny (just to be able to edit script on the devise)
->rightclick net icon in topline - network setting - wlan0 - choos an static ip - turn wifi off/on
->now go via vnc
+>-choose language, login,..
+>-set up ssh, i2c, spi, vnc, remote GPIO ..
+>-install Mu or/and thorny (just to be able to edit script on the devise)
+>-rightclick net icon in topline - network setting - wlan0 - choos an static ip - turn wifi off/on
+>-now go via vnc
 
 (GPIO are normaly already installed!! but else: "sudo apt-get install rpi.gpio")
 
-> this process is snipped from "https://pimylifeup.com/raspberry-pi-low-voltage-warning/"
+this process is snipped from "https://pimylifeup.com/raspberry-pi-low-voltage-warning/"
  - edit: sudo nano /boot/config.txt
  - add line in bottom: avoid_warnings=1
  - save and exit
