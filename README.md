@@ -41,6 +41,7 @@ this process is snipped from "https://pimylifeup.com/raspberry-pi-low-voltage-wa
 
 this process is snipped from "https://pi-hole.net/" 
 - install: curl -sSL https://install.pi-hole.net | bash
+
 (it get some lang error wen doing via gui. but works)
 
 this process is snipped from  "https://github.com/PiSupply/PaPiRus" 
