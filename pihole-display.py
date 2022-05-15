@@ -1,8 +1,7 @@
 # coding=utf-8
 # Python program for showing Pihole stats on a PaPiRus HAT for Raspberry pi
 #
-# Date : 8. Apr. 2022, By Morten S. Tostesen
-# this is a lite version
+# Date : 8. Apr. 2022, By Tech-Neek
 # todo: automatic ip assigment, not done yet
 
 #import libs
