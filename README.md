@@ -47,8 +47,6 @@ there are many ways to go from here, but this is what i did.
 * this process is snipped from https://github.com/Ewpratten/pihole-api 
 - install: python3 -m pip install --no-cache-dir PiHole-api
 
-
-> Tech-Neek
 * getting the fontfile:
 - install: wget https://bitbucket.org/MattHawkinsUK/rpispy-misc/raw/master/pihole/VCR_OSD_MONO_1.001.ttf
 - alternative install: wget (https://github.com/3ndG4me/Font/blob/master/VCR_OSD_MONO_1.001.ttf)
@@ -60,8 +58,10 @@ there are many ways to go from here, but this is what i did.
 * set up autostart script in gui:
 tried many things but this looks like it works, just as expected.
 
-edit: sudo nano /etc/xdg/lxsession/LXDE-pi/autostart
-add line, to run in terminal window in GUI: "@lxterminal -e /usr/bin/python3 /home/pi/pihole-display.py"
-or
-add line, to run in background: "@/usr/bin/python3 /home/pi/pihole-displa2.py"
+- edit: sudo nano /etc/xdg/lxsession/LXDE-pi/autostart
+- add line, to run in terminal window in GUI: "@lxterminal -e /usr/bin/python3 /home/pi/pihole-display.py"
+> or
+> add line, to run in background: "@/usr/bin/python3 /home/pi/pihole-displa2.py"
 
+_
+Tech-Neek
