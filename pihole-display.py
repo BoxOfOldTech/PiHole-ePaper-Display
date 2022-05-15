@@ -130,7 +130,7 @@ def my_callback(channel):
 def splash():
     text.Clear()
     text.AddText("PiHole Stats", 25, 30, size=30, fontPath=font )
-    text.AddText("By: Teck-Neek 2022", 26, 70, size=18, fontPath=font )
+    text.AddText("By: Tech-Neek 2022", 26, 70, size=18, fontPath=font )
     text.WriteAll()
 
 def menu1_update(_partial_update):
