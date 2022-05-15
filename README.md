@@ -1,5 +1,4 @@
 ###### PiHole-ePaper-Display
-![s75-0862p01wl](https://user-images.githubusercontent.com/105596019/168481248-c6139a69-22b5-4d35-94e2-2147b3898a88.jpg)
 
 Hi there, This is a Pihole with an e-paper status display.
 It is a raspberry pi, running a program, acting as an ad-blocker with a display.
@@ -16,6 +15,8 @@ the perfect parts to my project.
 What is PaPiRus?
 The PaPiRus was originally launched on Kickstarter, and is now available to purchase on various online stores. 
 The one I got has the largest e-paper screen and 4 tactile buttons on the top. The case has cutouts for the buttons and 4 small plastic things to put in the holes. All in all, a complete assembly.
+
+![s75-0862p01wl](https://user-images.githubusercontent.com/105596019/168481248-c6139a69-22b5-4d35-94e2-2147b3898a88.jpg)
 
 Info on the HAT and the assemply check out this link: https://uk.pi-supply.com/products/papirus-epaper-eink-screen-hat-for-raspberry-pi
 
