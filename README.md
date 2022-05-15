@@ -1,4 +1,5 @@
 ###### PiHole-ePaper-Display
+![s75-0862p01wl](https://user-images.githubusercontent.com/105596019/168481248-c6139a69-22b5-4d35-94e2-2147b3898a88.jpg)
 
 Hi there, This is a Pihole with an e-paper status display.
 It is a raspberry pi, running a program, acting as an ad-blocker with a display.
