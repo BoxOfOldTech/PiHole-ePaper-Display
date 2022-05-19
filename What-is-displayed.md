@@ -19,8 +19,7 @@ line 6: A bar showing present and max Blocked dns queries of a period of time
 line 7: timestamp for last display screen update.
 
 
-more infor on the python api and the info provided:
-https://pypi.org/project/PiHole-api/
+(more infor on the python api and the info provided: https://pypi.org/project/PiHole-api/)
 
 -----------------------------------------------------------------
 
