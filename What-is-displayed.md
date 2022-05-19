@@ -1,4 +1,4 @@
-The info in the screen
+What is displayed on the e-paper screen?
 
 ![raspipihole](https://user-images.githubusercontent.com/105596019/169389202-909b306d-29c4-4bb7-852a-293ee66b6672.jpg)
 
