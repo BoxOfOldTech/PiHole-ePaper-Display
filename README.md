@@ -3,6 +3,8 @@
 Hi there, This is a Pihole with an e-paper status display.
 It is a raspberry pi, running a program, acting as an ad-blocker with a display.
 
+![raspipihole](https://user-images.githubusercontent.com/105596019/169385165-21d1ec22-a7a4-47d0-82cd-21ac507944e9.jpg)
+
 It could run without a display but..
 it is neat to see the statistics of the pi hole itself in an easy way. to check how effective it is.
 And .. Well, I love to make small electronic projects and code. as one of my many hobbies.
