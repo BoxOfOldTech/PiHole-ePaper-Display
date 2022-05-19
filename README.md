@@ -1,4 +1,5 @@
-###### PiHole-ePaper-Display
+PiHole-ePaper-Display
+--------------------
 
 Hi there, This is a Pihole with an e-paper status display.
 It is a raspberry pi, running a program, acting as an ad-blocker with a display.
