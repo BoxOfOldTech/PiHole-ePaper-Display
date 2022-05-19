@@ -1,5 +1,6 @@
 The info in the screen
 
+![raspipihole](https://user-images.githubusercontent.com/105596019/169389202-909b306d-29c4-4bb7-852a-293ee66b6672.jpg)
 
 
 
@@ -16,6 +17,8 @@ line 5: Blocked dns queries in percent over a period of time
 line 6: A bar showing present and max Blocked dns queries of a period of time
 
 line 7: timestamp for last display screen update.
+
+-----------------------------------------------------------------
 
 botton 1: refresh display screen
 
