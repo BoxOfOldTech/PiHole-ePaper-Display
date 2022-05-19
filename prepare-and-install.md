@@ -1,4 +1,4 @@
-The install:
+The install
 ---------------
 there are many ways to go from here, but this is what i did.
 
