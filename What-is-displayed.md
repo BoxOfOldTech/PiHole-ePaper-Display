@@ -21,6 +21,7 @@ line 7: timestamp for last display screen update.
 
 more infor on the python api and the info provided:
 https://pypi.org/project/PiHole-api/
+
 -----------------------------------------------------------------
 
 botton 1: refresh display screen
