@@ -1,6 +1,7 @@
 The info in the screen
 
-![raspipihole](https://user-images.githubusercontent.com/105596019/169385165-21d1ec22-a7a4-47d0-82cd-21ac507944e9.jpg)
+
+
 
 line 1: Tittle and from the pihole api a enabled/diabled status 
 line 2: current ip of the hihole dns and a checkmark that there is access to the internet - like a ping to a webside.
